@@ -1,0 +1,10 @@
+DATA QUALITY SUMMARY — DAY 1
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+==================================================
+
+Total CSV files loaded   : 10
+Total anomalies detected : 1
+
+Anomaly Details:
+  1. 04_monthly_sip_inflows.csv: 1 col(s) with nulls (['yoy_growth_pct']); 0 duplicate rows
