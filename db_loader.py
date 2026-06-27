@@ -62,3 +62,27 @@ with engine.connect() as conn:
             print(f"  {table:<25}: ERROR — {e}")
 
 print("\ndb_loader.py completed successfully!")
+# ── POPULATE dim_date TABLE ───────────────────────────
+import sqlite3
+from datetime import date, timedelta
+
+print("\nPopulating dim_date table...")
+start = date(2022, 1, 1)
+end   = date(2026, 6, 30)
+dates = []
+current = start
+while current <= end:
+    dates.append({
+        "full_date"  : str(current),
+        "day"        : current.day,
+        "month"      : current.month,
+        "month_name" : current.strftime("%B"),
+        "quarter"    : (current.month - 1) // 3 + 1,
+        "year"       : current.year,
+        "is_weekend" : 1 if current.weekday() >= 5 else 0
+    })
+    current += timedelta(days=1)
+
+dim_date_df = pd.DataFrame(dates)
+dim_date_df.to_sql("dim_date", con=engine, if_exists="replace", index=False)
+print(f"  dim_date populated: {len(dim_date_df)} rows")
