@@ -1,0 +1,162 @@
+EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=EDA FINDINGS SUMMARY - DAY 3
+Capstone Project I: Mutual Fund Analytics
+Author: Sanapathi Kalyani
+=
+
+1. NAV TREND: All 40 schemes show consistent upward trend 2022-2026.
+2. AUM DOMINANCE: SBI MF leads with Rs.12.5L Cr AUM (Dec 2025).
+3. SIP MILESTONE: Rs.31,002 Cr ATH in Dec 2025, consistent YoY growth.
+4. CATEGORY INFLOWS: Large Cap and Flexi Cap dominate net inflows.
+5. INVESTOR AGE: 26-35 age group is largest SIP investor segment.
+6. GEOGRAPHY: Maharashtra, Karnataka, Delhi NCR lead in SIP amounts.
+7. FOLIO GROWTH: Folios doubled from 13.26 Cr to 26.12 Cr (2022-2025).
+8. CORRELATION: Large Cap funds show high positive correlation > 0.85.
+9. SECTOR: Financial Services, IT, Consumer Goods are top 3 sectors.
+10. EXPENSE RATIO: Most funds between 0.5-1.5%, Direct plans cheaper.
